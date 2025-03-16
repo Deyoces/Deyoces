@@ -7,7 +7,8 @@ computer: **Ingeniero de Infraestructura
 :family: **Todo por ellos.
 
 ### Contacto
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeyoces-ricardez%2F)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeyoces-ricardez%2F&style=for-the-badge)
+
 
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DeyocesR)
