@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-computer: **Ingeniero de Infraestructura
+:computer: **Ingeniero de Infraestructura
 
-:eyesgalses: ** Me encata aprender!!
+:eyesglases: ** Me encata aprender!!
 
 :family: **Todo por ellos.
 
