@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero de Infraestructura
 
-:eyeglasses: ** Me encanta aprender!
+:eyeglasses: ** Me encanta aprender!!
 
 :family: **Todo por ellos..
 
