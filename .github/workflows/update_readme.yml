@@ -11,4 +11,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Update README with recent activity
-        uses: deyoces/deyoces@main # Reemplaza con tu información
+        uses: deyoces/deyoces@main 
+        
+        
+        # Reemplaza con tu información
