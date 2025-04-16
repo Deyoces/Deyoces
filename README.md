@@ -31,11 +31,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Deyoces/test_cli](https://github.com/Deyoces/test_cli)<br>
 2. ⬆️ Pushed 1 commit(s) to [Deyoces/test_cli](https://github.com/Deyoces/test_cli)<br>
-3. ⬆️ Pushed 1 commit(s) to [Deyoces/deyoces.github.io](https://github.com/Deyoces/deyoces.github.io)<br>
-4. ⬆️ Pushed 2 commit(s) to [Deyoces/deyoces.github.io](https://github.com/Deyoces/deyoces.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [Deyoces/deyoces.github.io](https://github.com/Deyoces/deyoces.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 15th, 2025, 1:17:54 PM
+Last Updated: Wednesday, April 16th, 2025, 1:46:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
